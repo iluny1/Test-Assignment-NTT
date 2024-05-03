@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHA256_Test_NTT", "SHA256_Test_NTT\SHA256_Test_NTT.csproj", "{D1288118-0B20-4EBD-8A14-843308A9EE98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1288118-0B20-4EBD-8A14-843308A9EE98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1288118-0B20-4EBD-8A14-843308A9EE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1288118-0B20-4EBD-8A14-843308A9EE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1288118-0B20-4EBD-8A14-843308A9EE98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {595959BB-4449-4056-AC05-407A432B479E}
+	EndGlobalSection
+EndGlobal
